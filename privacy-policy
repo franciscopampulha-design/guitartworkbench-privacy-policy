@@ -1,0 +1,151 @@
+
+    <div class="card">
+      <strong>Short version:</strong> The Guitar Workbench is offline-first.
+      Your scores, recordings, and creative content stay on your device.
+      Optional anonymous Firebase Analytics helps improve the product and can be
+      turned off in Settings. We do not sell your data and we do not show ads.
+    </div>
+    <h2>1. Who we are</h2>
+    <p>
+      This Privacy Policy explains how <strong>Francisco Pampulha</strong>
+      (“we”, “us”, “the developer”) handles information in connection with
+      <strong>The Guitar Workbench</strong> (the “App”).
+    </p>
+    <p>
+      Contact for privacy questions:
+      <a href="mailto:franciscopampulha@gmail.com">franciscopampulha@gmail.com</a>
+    </p>
+    <h2>2. Scope</h2>
+    <p>
+      This policy covers the Android and iOS versions of The Guitar Workbench.
+      It does not cover third-party websites, stores (Google Play / Apple App Store),
+      or other apps, which have their own policies.
+    </p>
+    <h2>3. No account and no cloud sync</h2>
+    <p>
+      The App does not require an account, login, or cloud sync. There is no
+      developer-operated backend that stores your songs, tabs, or practice files.
+      Creative content you create or import remains under your control on your device
+      (and on any location you choose if you export or share files yourself).
+    </p>
+    <h2>4. Information processed on your device</h2>
+    <p>Depending on how you use the App, it may store locally on your device:</p>
+    <ul>
+      <li>Scores, tabs, library indexes, backups, and related creative files</li>
+      <li>Instrument profiles, settings, preferences, and practice history</li>
+      <li>Optional audio memos / recordings you choose to capture</li>
+      <li>Temporary audio used for features such as tuner, transcription, play-along scoring, and similar tools</li>
+    </ul>
+    <p>
+      This on-device information is not uploaded to our servers for storage.
+      If you use the operating system’s share sheet or export features, you choose
+      where those files go.
+    </p>
+    <h2>5. Microphone</h2>
+    <p>
+      The App may request microphone permission for features such as tuning,
+      transcription, chord listening, play-along / runner scoring, and audio memos.
+    </p>
+    <ul>
+      <li>Microphone audio for these features is processed <strong>on your device</strong>.</li>
+      <li>We do not use microphone audio to build advertising profiles.</li>
+      <li>We do not upload your performances, transcriptions, or memo contents to Firebase Analytics.</li>
+      <li>You can deny microphone access in system settings; related features will not work until permission is granted.</li>
+    </ul>
+    <h2>6. Analytics (optional)</h2>
+    <p>
+      Unless you opt out, the App uses <strong>Google Firebase Analytics</strong>
+      (with Google Analytics / GA4) to understand aggregated product usage and improve the App.
+    </p>
+    <p>Analytics is designed to be privacy-bounded:</p>
+    <ul>
+      <li>Collection starts only after the App can apply your saved preference.</li>
+      <li>You can turn analytics off at any time in <strong>Settings → Anonymous usage analytics</strong>.</li>
+      <li>We do <strong>not</strong> send score IDs or titles, repertoire content, recordings, transcription output, notes, free text, profile names, file paths, or other creative content to Analytics.</li>
+      <li>Allowed signals are limited to product taxonomy such as screen/route names, tool names, onboarding goals, and similar non-creative action types.</li>
+      <li>Advertising storage, advertising personalization, and Android advertising-ID collection for this App remain disabled.</li>
+    </ul>
+    <p>
+      Google may process analytics data as an independent controller or processor
+      according to Google’s terms and privacy documentation for Firebase / Google Analytics.
+      See Google’s privacy resources for Firebase and Google Analytics for details on
+      their processing, retention, and international transfers.
+    </p>
+    <h2>7. Crash and diagnostics data</h2>
+    <p>
+      Your device platform or store (for example Google Play / Apple) may collect
+      crash or diagnostic information according to your device settings and the
+      store’s policies. Separately, if we later enable optional crash-reporting SDKs,
+      we will update this policy before doing so.
+    </p>
+    <h2>8. Purchases</h2>
+    <p>
+      The current release is free and does not offer in-app purchases.
+      If paid features are added later, billing will be handled by Google Play or
+      the App Store; we will update this policy and store disclosures accordingly.
+    </p>
+    <h2>9. Advertising and data sale</h2>
+    <p>
+      The App does not display third-party advertising.
+      We do not sell your personal information.
+      We do not share creative content with data brokers.
+    </p>
+    <h2>10. Children</h2>
+    <p>
+      The App is a general music-practice tool and is not directed at children
+      under 13 (or the equivalent minimum age in your country). We do not knowingly
+      collect personal information from children. If you believe a child has provided
+      personal information through Analytics despite our design limits, contact us and
+      we will take appropriate steps.
+    </p>
+    <h2>11. Retention</h2>
+    <ul>
+      <li><strong>On-device content:</strong> retained until you delete it or uninstall the App (subject to any device backups you control).</li>
+      <li><strong>Analytics:</strong> retained according to our Firebase / Google Analytics configuration and Google’s retention controls; opting out stops further Analytics collection from the App on that device.</li>
+    </ul>
+    <h2>12. International users and legal bases (EEA/UK)</h2>
+    <p>
+      If you are in the European Economic Area or UK, we process Analytics data based on
+      <strong>legitimate interests</strong> in understanding and improving the App,
+      and/or your choice to keep analytics enabled. You can object by disabling analytics
+      in Settings. On-device processing needed to provide features you request is based on
+      <strong>performance of the contract / requested service</strong> and your device permissions.
+    </p>
+    <h2>13. Your choices and rights</h2>
+    <ul>
+      <li>Disable analytics in App Settings</li>
+      <li>Revoke microphone (and other) permissions in system settings</li>
+      <li>Delete local App data by clearing app storage or uninstalling</li>
+      <li>Export or delete creative files you control on the device</li>
+    </ul>
+    <p>
+      Depending on your location, you may have rights to access, correct, delete, or
+      restrict certain personal data, or to lodge a complaint with a supervisory authority.
+      For Analytics data held by Google, you may also need to use Google’s tools or contact us
+      so we can help where we can.
+    </p>
+    <h2>14. Data security</h2>
+    <p>
+      We design the App so creative content does not need to leave your device for core features.
+      No method of electronic storage or transmission is perfectly secure; protect your device
+      with a passcode/biometrics and be careful when exporting or sharing files.
+    </p>
+    <h2>15. Changes to this policy</h2>
+    <p>
+      We may update this Privacy Policy when the App’s data practices change.
+      The “Last updated” date at the top will change when we do. Continued use of the App
+      after an update means you acknowledge the revised policy.
+    </p>
+    <h2>16. Contact</h2>
+    <p>
+      Privacy questions about The Guitar Workbench:<br />
+      Email: <a href="mailto:franciscopampulha@gmail.com">franciscopampulha@gmail.com</a><br />
+      Developer: Francisco Pampulha
+    </p>
+    <footer>
+      © 2026 Francisco Pampulha · The Guitar Workbench ·
+      This page is provided for store and user transparency.
+    </footer>
+  </main>
+</body>
+</html>
